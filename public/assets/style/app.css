@@ -1,0 +1,20 @@
+@import url("fontiran.css");
+
+* {
+    font-family: "IRANSansXFaNum";
+}
+
+@media (min-width:480px) {
+    .hiro_mobile {
+        height: 698px;
+    }
+
+    .hiro_mobile_title_fader {
+        top: 126px;
+    }
+
+    .hiro_mobile_title {
+        font-size: 30px;
+        width: 270px;
+    }
+}
